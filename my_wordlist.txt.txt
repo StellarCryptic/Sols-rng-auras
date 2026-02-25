@@ -55,7 +55,7 @@ Nautilus
 Permafrost
 Flow
 Stormal
-FAULTFAULT
+FAULT
 DIABOLI : VOID
 COMET
 Divinus : Angel
@@ -549,3 +549,4 @@ Random Candy Giver
 Lucky Ticket
 Wish Stocking
 Glowing Snow Globe
+
