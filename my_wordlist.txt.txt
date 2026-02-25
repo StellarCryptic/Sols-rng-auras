@@ -162,7 +162,6 @@ wraithlight
 encase
 shard surfer
 nightmare sky
-grief
 bloodgarden
 innovator
 harvester
@@ -171,7 +170,7 @@ soul hunter
 moonflower
 lunar: nightfall
 pump
-frozen
+blossom : frozen
 frigid
 wonderland
 santa-frost
@@ -188,5 +187,5 @@ life-guard
 ink: paintballgun
 parasol
 attorney
-
 verdict
+
