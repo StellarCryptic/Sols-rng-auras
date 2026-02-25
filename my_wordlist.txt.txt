@@ -1,191 +1,338 @@
-monarch
-equinox
-sovereign
-aegis
-ruins: withered
-ruins
-apostolos
-leviathan
-breakthrough
-pixelation
-nyctophobia
-luminosity
-perpetual
-masterhand
-archangel
-bloodlust
-maelstrom
-gargantua
-abyssal hunter
-pythios
-atlas
-impeached
-oppression
-symphony: bloomed
-symphony
-overture: history
-overture
-starscourge: radiant
-chromatic: genesis
-matrix: reality
-matrix: overdrive
-matrix: steampunk
-hyper-volt: ever-storm
-lumenpool
-prophecy
-ascendant
-ethereal
-arcane: dark
-arcane: legacy
-poseidon
-zeus
-hades
-solar: solstice
-lunar: full moon
-galaxy
-twilight: iridescent memory
-twilight
-starscourge
-sailor: flying dutchman
-sailor
-hurricane
-sirius
-exotic: apex
-overseer
-aviator
-hyper-volt
-virtual: worldwide
-atomic: nucleus
-melodic
-apotheosis
-sharkyn
-flora: forest
-borealis
-arcane
-astral
-cosmos
-gravitational
-virtual
-undefined
-kyawthuite
-archmage
-amethyst
-apatite
-evanescent
+Nothing
+Common
+Uncommon
+Good
+Natural
+Rare
+Divinus
+Crystallized
+Rage
+Topaz
+Ruby
+Forbidden
+Emerald
+Gilded
+Ink
+Jackpot
+Sapphire
+Wind
+Aquamarine
+Diaboli
+Precious
+Atomic
+Glock
+Magnetic
+Ash
+Glacier
+PLAYER
+Flora
+Cola
+Sidereum
+Bleeding
+Flutter
+Flushed
+HAZARD
+Doodle
+Quartz
+Honey
+Lost Soul
+Atomic:Ribonucleic
+Undead
+Corrosive
+Rage : Heated
+Ink : leak
+Powered
+COPPER
+WATT
+Aquatic
+Lunar
+Solar
+STARLIGHT
+StarRider
+Flushed : Lobotomy
+HAZARD : RAYS
+Nautilus
+Permafrost
+Flow
+Stormal
+FAULTFAULT
+DIABOLI : VOID
+COMET
+Divinus : Angel
+Jade
+Spectre
+Jazz
+Aether
+BOUNDED
+Lantern
+Celestial
+TERROR
+HOPE
+Raven
+Warlock
+UNDEAD : DEVIL
+Kyawthuite
+Arcane
+STARLIGHT : KUNZITE
+Magnetic : Reverse Polarity
+Undefined
+Rage : Brawler
 symbiosis
-flowed
-unbound
-rage: brawler
-magnetic: reverse polarity
-starlight: kunzite
-nautilus: lost
-nihility
-helios
-velocity
-savior
-shift lock
-celestial
-exotic
-comet
-bounded
-aether
-spectre
-jazz
-diaboli: void
-undead: devil
-lantern
-player: respawn
-undead
-corrosive
-rage: heated
-ink leak
-powered
-copper
-watt
-aquatic
-solar
-lunar
-starlight
-star rider
-flushed: lobotomy
-hazard: rays
-nautilus
-permafrost
-flow
-stormal
-fault
-jade
-doodle
-flutter
-hazard
-quartz
-lost soul
-common
-uncommon
-good
-natural
-rare
-divinus
-crystallized
-rage
-topaz
-ruby
-forbidden
-emerald
-gilded
-ink
-jackpot
-sapphire
-aquamarine
-wind
-diaboli
-precious
-atomic
-glock
-magnetic
-ash
-glacier
-player
-flora
-cola
-sidereum
-bleeding
-flushed
-blossom
-celestial: cupid
-flushed: heart eye
-divinus: love
-parol
-banshee
-malediction
-wraithlight
-encase
-shard surfer
-nightmare sky
-bloodgarden
-innovator
-harvester
-dullahan
-soul hunter
-moonflower
-lunar: nightfall
-pump
-blossom : frozen
-frigid
-wonderland
-santa-frost
-winter fantasy
-express
-abominable
-atlas: yuletide
-manta
-aegis: watergun
-sandbasket
-bubble
-bioluminescent
-life-guard
-ink: paintballgun
-parasol
-attorney
-verdict
-
+Astral
+Cosmos
+Archmage
+Player : respawn
+Gravitational
+UNBOUND
+FLOWED
+Virtual
+Parasite
+Apatite
+Savior
+Shiftlock
+Evanescent
+Alice
+Bejeweled
+Poseidon
+Aquatic : Flame
+METABYTES
+Zeus
+Lunar : Full Moon
+Solar : Solstice
+Galaxy
+Anima
+Twilight
+Origin
+Hades
+CELESTIAL : DIVINE
+Anubis
+Refraction
+Faith
+HyperVolt
+Velocity
+Nautilus : Lost
+Divinus : Guardian
+OUTLAW
+HARNESSED
+Nihility
+Helios
+Stargazer
+Amethyst
+STARSCOURGE
+SHARKYN
+GUARDIAN
+Melodic
+Sailor
+Stormal : hurricane
+ICARUS
+Sirius
+Arcane : Legacy
+Lullaby
+CHROMATIC
+AVIATOR
+APOTHEOSIS
+Blizzard
+Arcane : Dark
+Ethereal
+Virtual : FATAL ERROR
+Juxtaposition
+Flora : Florest
+Overseer
+Exotic : APEX
+Matrix
+Runic
+Twilight : Iridescent Memory
+SENTINEL
+ANTIVIRUS
+Dominion
+Sailor : Flying Dutchman
+Carriage
+VIRTUAL : FULL CONTROL
+HARNESSED : ELEMENTS
+Virtual : WorldWide
+Atomic : nucleus
+CHROMATIC : GENESIS
+STARSCOURGE : RADIANT
+Spectraflow
+Overture
+Symphony
+Twilight : Withering Grace
+FELLED
+IMPEACHED
+Lumenpool
+HYPERVOLT : EVERSTORM
+Astral : Zodiac
+PROPHECY
+ExoticVoid
+BLOODLUST
+OVERTURE : HISTORY
+MAELSTROM
+Perpetual
+LOTUSFALL
+Orchestra
+ARCHANGEL
+ATLAS
+Flora : Evergreen
+CHILLSEAR
+Abyssal Hunter
+GARGANTUA
+APOSTOLOS
+unknown
+Kyawthuite : Remembrance
+Ruins
+MATRIX OVERDRIVE
+Elude
+Sophyra
+MATRIX REALITY
+PROLOGUE
+PYTHIOS
+SOVEREIGN
+Ruins : Withered
+AEGIS
+dreamscape
+ASCENDANT
+NYCTOPHOBIA
+PIXELATION
+Luminosity
+BREAKTHROUGH
+Equinox
+Crafted
+Eclipse
+Chromatic : hyper
+Atlas : A.T.L.A.S
+MATRIX : STEAMPUNK
+MasterHand
+GLITCH
+Borealis
+LEVIATHAN
+Memory
+Neferkhaf
+MONARCH
+Dreammetric
+Oppression
+illusionary
+OBLIVION
+Eden
+Divinus : Love
+Flushed : Heart Eye
+Celestial : Cupid
+Blossom
+Defined
+Kromat1k
+impeached : impeach
+StarRider : starfish
+Watermelon
+Shard Surfer
+Surfer
+INNOVATOR
+PUMP
+Lunar : Nightfall
+Vital
+Moonflower
+Cryptfire
+SOUL HUNTER
+DULLAHAN
+NIGHTMARE SKY
+HARVESTER
+APOSTOLOS : VEIL
+Wonderland
+SantaFrost
+Winter Fantasy
+Express
+ABOMINABLE
+Atlas : Yuletide
+Frigid
+Blossom : frozen
+pukeko
+Flushed : troll
+Origin : onion
+Glock : the glock of the sky
+Windy Egg
+Snowy Egg
+Rainy Egg
+Sandstorm Egg
+Hellfire Egg
+Starfall Egg
+Corruption Egg
+Null Egg
+Glitched Egg
+Manta
+AEGIS : WATERGUN
+SandBasket
+Bubble
+Parasol
+Bioluminescent
+LifeGuard
+Ink : PaintballGun
+Scorpion
+MEGAPHONE
+Prowler
+Pump : Trickster
+Celestial : WICKED
+Lunar : Cultist
+Headless
+Werewolf
+SHUCKS
+Oni
+Sinister
+HEADLESS : HORSEMAN
+Reaper
+ACCURSED
+Bloodgarden
+GRIEF
+CRIMSON
+GRAVEBORN
+AFTERPARTY
+Phantasma
+APOCALYPSE
+WRAITH LIGHT
+MALEDICTION
+BANSHEE
+RAVAGE
+ARACHNOPHOBIA
+LAMENTHYR
+Erebus
+THANEBORNE
+Veinweaver
+LAMENT
+CAROUSEL
+DREADSEA
+Slaughter
+Present
+Christmastide
+SKYFORGE
+Star Rider : Snowflake
+Gingerbread
+Jack Frost
+Lost Soul : WANDER
+Frostwood
+North Pole
+Sky Burst
+ENCASE
+CryoFang
+NORTHERN
+SOVEREIGN : Frostveil
+Reina
+CLOCKWORK
+Snowball
+Cryogenic
+Eve Night
+Workshop
+PAROL
+Winter Garden
+Dream Traveler
+ATTORNEY
+VERDICT
+Symphony : Bloomed
+Velvet
+Lightning
+Chromatic : Exotic
+ASTRAL : LEGENDARIUM
+Stellar
+Sol
+Content Creator
+MORNING STAR
+ALCHEMIST
+THE ROCK
+ConstraintTest
+LAYERS
