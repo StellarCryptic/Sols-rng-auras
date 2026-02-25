@@ -368,3 +368,184 @@ Mari
 Jester
 Fischl
 Rig
+Wind Fairy Lantern
+Frozen Lantern
+Abyssal Lantern
+Gilded Dust Lantern
+Eternal Flaming Lantern
+Starlight Lantern
+Angel’s Feather Lantern
+Corruption Cell Lantern
+Darklight Lantern
+Luck Glove
+Desire Glove
+Lunar Device
+Frozen Gauntlet
+Solar Device
+Aqua Device
+Shining Star
+Eclipse Device
+Exo Gauntlet
+Windstorm Device
+Subzero Device
+Galactic Device
+Volcanic Device
+Exoflex Device
+Hologrammer
+Ragnaröker
+Starshaper
+Neuralyzer
+Genesis Drive
+Heavenly Device
+Gemstone Gauntlet
+Dark Matter Device
+Jackpot Gauntlet
+Flesh Device
+Gravitational Device
+Darkshader
+Pole Light Core Device
+Unfathomable Ruins
+Tide Gauntlet
+Blessed Tide Gauntlet
+Present Giver
+X-Mas Champion
+Ominous Coffin
+Wind Fairy Lantern
+Frozen Lantern
+Abyssal Lantern
+Gilded Dust Lantern
+Eternal Flaming Lantern
+Starlight Lantern
+Angel's Feather Lantern
+Corruption Cell Lantern
+Darklight Lantern
+Sunstone Talisman
+Moonstone Talisman
+Day and Night Talisman
+Overtime Talisman
+Soul Collector's Talisman
+Soul Master's Talisman
+???
+Oblivion Potion
+Godlike Potion
+Transcendent Potion
+Heavenly Potion I
+Heavenly Potion II
+Warp Potion
+Godly Potion (Zeus)
+Godly Potion (Poseidon)
+Godly Potion (Hades)
+Potion of Bound
+Sizemin Potion
+Sizemax Potion
+Hwachae
+Jewelry Potion
+Zombie Potion
+Diver Potion
+Rage Potion
+Strange Potion
+Gladiator Potion
+Popping Potion
+Haste Potion
+Fortune Potion
+Fortune Spoid
+Mixed Potion
+Speed Potion
+Lucky Potion
+Potion of the Dune
+Forbidden Potion I
+Forbidden Potion II
+Forbidden Potion III
+Void Heart
+Universe Potion I
+Rune of Rainstorm
+Rune of Dust
+Rune of Hell
+Rune of Galaxy
+Rune of Everything
+Rune of Wind
+Rune of Frost
+Rune of Corruption
+Rune of Nothing
+Rune of Eclipse
+Strange Controller
+Biome Randomizer
+Biome Selector
+Item Collector
+Stella's Candle
+Incense Burner
+Portable Device
+Random Potion Sack
+Random Rune Chest
+Potion Chest
+Rare Potion Chest
+Mega Potion Chest
+Potion Ice Boxes
+Merchant Teleporter
+Merchant Tracker
+Fisherman Chests
+Shovel
+Portable Crack
+Stella's Star
+Wind Essence
+Icicle
+Rainy Bottle
+Piece of Star
+NULL?
+Eternal Flame
+Curruptaine
+Hourglass
+Feather Vial
+Darklight Shard
+Darklight Orb
+Darklight Core
+Gear A
+Gear B
+Cyber Technology
+Raging Gale Drive
+Chilling Frost Drive
+Abyss Curse Drive
+Golden Dune Drive
+Infernal Flame Drive
+Radiant Star Drive
+Angelic Hymn Drive
+Corrupt Ruin Drive
+Unknown Void Drive
+Lucky Penny
+Void Coin
+Fish?
+Empty Bottle
+Coin
+Gilded Coin
+Gear Basing
+Rainbow Syrup
+Marine Amulet
+Pumpkin
+Pump King's Soul
+Winter Medal 2025
+Summer Medal 2025
+Normal item ticket
+Rare item ticket
+Mega item ticket
+Eggstractor
+Combinator
+Cursed Rune Fragment
+Bounty Medal
+Pump King's Blood
+Blood Pack
+Thunder Cookie
+Bubble Ball
+Constellation Hologram
+Santa Claus Potion
+Wish Stars
+Snowflake
+Elf Potion
+Rudolph Potion
+Berry Candy
+Mint Candy
+Peppermint Candy
+Herb Candy
+Random Candy Giver
+Lucky Ticket
+Wish Stocking
+Glowing Snow Globe
