@@ -89,7 +89,6 @@ exotic
 comet
 bounded
 aether
-jasper
 spectre
 jazz
 diaboli: void
@@ -189,4 +188,5 @@ life-guard
 ink: paintballgun
 parasol
 attorney
+
 verdict
